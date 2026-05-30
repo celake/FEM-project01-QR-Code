@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/celake/FEM-project01-QR-Code.git)
-- Live Site URL: [QR_code](https://your-live-site-url.com)
+- Live Site URL: [QR_code](https://spectacular-cajeta-2a1be1.netlify.app/)
 
 ## My process
 
