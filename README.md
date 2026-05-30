@@ -37,7 +37,7 @@ In this project I was continuing to increase my CSS and html knowledge. I try to
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This resource helped me to create a custom css reset.  I like knowing what each item in the reset does and why.
+- [Example resource 1](https://www.youtube.com/kevinpowell) - This resource helped me to create a custom css reset.  I like knowing what each item in the reset does and why.
 
 ### AI Collaboration
 
@@ -45,6 +45,6 @@ I did not use any AI tools for coding.  I did some research with an AI tool for 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/celake)
+- Frontend Mentor - [@celake](https://www.frontendmentor.io/profile/celake)
 
 
