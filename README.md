@@ -37,7 +37,7 @@ In this project I was continuing to increase my CSS and html knowledge. I try to
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/kevinpowell) - This resource helped me to create a custom css reset.  I like knowing what each item in the reset does and why.
+- [Kevin Powell Youtube](https://www.youtube.com/kevinpowell) - This resource helped me to create a custom css reset.  I like knowing what each item in the reset does and why.
 
 ### AI Collaboration
 
