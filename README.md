@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/celake/FEM-project01-QR-Code.git)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/celake/FEM-project01-QR-Code.git)
+- Live Site URL: [QR_code](https://your-live-site-url.com)
 
 ## My process
 
